@@ -26,7 +26,7 @@ node script.js
 - Pode ser qualquer nome, mas utilizei stdin porque é o mesmo nome usado no URI.
 
 ### - require("fs").readFileSync("stdin", "utf-8")
-- ***required*** - palavra reservada do Node, que server para fazer requisão de módulos.
+- ***required*** - palavra reservada do Node, que serve para fazer requisão de módulos.
 - ***fs*** - é o módulo que estamos fazendo a requisão. Como ele podemos por exemplo ler o conteúdo de arquivos.
 - ***readFileSync*** - método do módulo **"fs"**. Ler o arquivo e retorna seu conteúdo. 
 - ***stdin*** - é  primeiro parâmetro do método **readFileSync**. É o arquivo que ele irá ler. Nesse projeto será stdin, mas poderia ser qualquer nome, desde que seja o nome do arquivo do seu projeto.
