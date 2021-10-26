@@ -27,13 +27,13 @@ node script.js
 
 ### - require("fs").readFileSync("stdin", "utf-8")
 - ***required*** - palavra reservada do Node, que server para fazer requisão de módulos.
-- ***fs*** - é o módulo que estamos fazendo a requisão. Como ele podemos por exemplo ler conteudo de arquivos.
-- ***readFileSync*** - método o módulo **"fs"**. Ler o arquivo e retornar seu conteúdo. 
-- ***stdin*** - é  primeiro parametro do método **readFileSync**. É o arquivo que ele irá ler. Nesse projeto será stdin, mas poderia ser qualquer nome, desde que seja o nome do arquivo do seu projeto.
-- ***utf-8*** - é o segundo parametro. O tipo de  encoding desse arquivo.
+- ***fs*** - é o módulo que estamos fazendo a requisão. Como ele podemos por exemplo ler o conteúdo de arquivos.
+- ***readFileSync*** - método do módulo **"fs"**. Ler o arquivo e retorna seu conteúdo. 
+- ***stdin*** - é  primeiro parâmetro do método **readFileSync**. É o arquivo que ele irá ler. Nesse projeto será stdin, mas poderia ser qualquer nome, desde que seja o nome do arquivo do seu projeto.
+- ***utf-8*** - é o segundo parâmetro. O tipo de  encoding desse arquivo.
 
 O que exatamente iremos fazer? <br>
-- A requisão do modulo **fs** utilizando o método **readFileSync**, passando os param (nome do arquivo que será lido, encoding desse arquivo) e o seu retorno é salvo em uma variável.
+- A requisão do módulo **fs** utilizando o método **readFileSync**, passando os param (nome do arquivo que será lido, encoding desse arquivo) e o seu retorno é salvo em uma variável.
 
 ##### Exemplo
 
