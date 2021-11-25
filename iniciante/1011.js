@@ -1,8 +1,6 @@
 let input = require('fs').readFileSync('stdin', 'utf-8');
 
-var lines = input.split('\n');
-
-let raio = parseFloat(lines);
+let raio = parseFloat(input);
 
 const PI = 3.14159;
 
