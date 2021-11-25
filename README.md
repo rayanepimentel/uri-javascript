@@ -1,7 +1,7 @@
 # URI Javascript
 
 ## Sobre
-- Crie esse repositório para compartilhar minha jornada no URI/beecrowd.
+- Criei esse repositório para compartilhar minha jornada no URI/beecrowd.
 - Meu perfil [URI|beecrowd](https://www.beecrowd.com.br/judge/pt/profile/596807).
 
 ## O que é preciso
